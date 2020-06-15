@@ -1,0 +1,5 @@
+export RADICAL_PILOT_DBURL="mongodb://localhost/RP1"
+export RADICAL_PILOT_VERBOSE="DEBUG"
+export RADICAL_PILOT_LOG_LVL="DEBUG"
+export RADICAL_VERBOSE=DEBUG
+export RADICAL_LOG_TGT=r.log
